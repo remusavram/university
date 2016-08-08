@@ -1,0 +1,14 @@
+Pentru aflarea solutiei se foloseste algoritm de cautare “mai intai in adancime cu adancire iterativa”.
+
+
+Solutie : 
+
+0: initializare: [0, 0, 0]
+1: Se umple vasul0 [15, 0, 0]
+2: Se varsa cantitatea 15 din vasul0 in vasul1 [0, 15, 0]
+3: Se umple vasul0 [15, 15, 0]
+4: Se varsa cantitatea 15 din vasul0 in vasul1 [0, 30, 0]
+5: Se umple vasul2 [0, 30, 10]
+6: Se varsa cantitatea 3 din vasul2 in vasul1 [0, 33, 7]
+
+ Numarul de operatii efectuate: 6
