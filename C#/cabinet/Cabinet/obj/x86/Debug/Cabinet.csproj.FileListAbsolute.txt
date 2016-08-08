@@ -1,0 +1,65 @@
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\bin\Debug\cabinet.mdf
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\bin\Debug\cabinet_log.ldf
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\bin\Debug\Cabinet.exe.config
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\bin\Debug\Cabinet.exe
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\bin\Debug\Cabinet.pdb
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form1.resources
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form2.resources
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\Cabinet.exe
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\Cabinet.pdb
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form3.resources
+C:\Users\Laura\Documents\Visual Studio 2010\Projects\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form4.resources
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\Cabinet.exe.config
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.exe
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.pdb
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\cabinet.mdf
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\cabinet_log.ldf
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\Cabinet.exe
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\Cabinet.pdb
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form1.resources
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form2.resources
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form3.resources
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form4.resources
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\Cabinet.exe.config
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.exe
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.pdb
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\cabinet.mdf
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\cabinet_log.ldf
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\Cabinet.exe
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\bin\Debug\Cabinet.pdb
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form1.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form2.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form3.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form4.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form5.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form6.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form7.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form8.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form9.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\bin\Debug\Cabinet.exe.config
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.exe
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.pdb
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\bin\Debug\cabinet.mdf
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\bin\Debug\cabinet_log.ldf
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\bin\Debug\Cabinet.exe
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\bin\Debug\Cabinet.pdb
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form6.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form1.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form2.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form3.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form4.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form5.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form7.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form8.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.Form9.resources
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.csproj.GenerateResource.Cache
+D:\Facultate\Anul III\Semestrul I\Ingineria soft\Proiecte\Proiect Ingineria Softului - Remus Avram\Cabinet\Cabinet\obj\x86\Debug\Cabinet.csprojResolveAssemblyReference.cache
