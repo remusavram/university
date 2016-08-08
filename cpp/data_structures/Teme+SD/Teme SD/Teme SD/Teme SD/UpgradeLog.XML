@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Teme SD">
+</Property><Property Name="Solution File" Value="\\minimax\everyone\SD\sd\Teme+SD\Teme SD\Teme SD\Teme SD\Teme SD.sln">
+</Property><Property Name="Date" Value="16 mai 2009">
+</Property><Property Name="Time" Value="11:50:32">
+</Property></Properties><Event ErrorLevel="2" Project="Teme SD" Source="Teme SD.vcproj" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: \\minimax\everyone\SD\sd\Teme+SD\Teme SD\Teme SD\Teme SD\Teme SD.vcproj&#xA;Line: 10&#xA;Column: 2&#xA;Error Message:&#xA;'9,00' violates enumeration constraint of '7.00 7,00 7.10 7,10 8.00 8,00'.&#xA;The attribute 'Version' with value '9,00' failed to parse.&#xA;&#xA;The file '\\minimax\everyone\SD\sd\Teme+SD\Teme SD\Teme SD\Teme SD\Teme SD.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="Teme SD" Source="Teme SD.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="Teme SD" Source="Teme SD.vcproj" Description="Not Converted">
+</Event></UpgradeLog>

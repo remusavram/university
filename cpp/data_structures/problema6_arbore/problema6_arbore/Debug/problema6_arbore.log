@@ -1,0 +1,14 @@
+﻿Build started 4/15/2011 11:32:57 AM.
+     1>Project "E:\Programare procedurala\sem2\problema6_arbore\problema6_arbore\problema6_arbore.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\problema6_arbore.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\problema6_arbore.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt problema6_arbore.cpp
+         problema6_arbore.cpp
+     1>e:\programare procedurala\sem2\problema6_arbore\problema6_arbore\problema6_arbore.cpp(74): error C3861: 'insereaza_dreapta': identifier not found
+     1>Done Building Project "E:\Programare procedurala\sem2\problema6_arbore\problema6_arbore\problema6_arbore.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.97

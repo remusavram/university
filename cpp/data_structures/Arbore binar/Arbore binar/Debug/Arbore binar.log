@@ -1,0 +1,21 @@
+﻿Build started 5/13/2011 2:16:01 PM.
+     1>Project "E:\Programare procedurala\sem2\SD\Arbore binar\Arbore binar\Arbore binar.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Arbore binar.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Arbore binar.unsuccessfulbuild".
+         Touching "Debug\Arbore binar.lastbuildstate".
+     1>Done Building Project "E:\Programare procedurala\sem2\SD\Arbore binar\Arbore binar\Arbore binar.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05

@@ -1,0 +1,20 @@
+﻿Build started 04/06/2011 10:14:44 AM.
+     1>Project "C:\Users\Oly\Desktop\SD\Heap binomial\Heap binomial\Heap binomial.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Heap binomial.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Heap binomial.unsuccessfulbuild".
+         Touching "Debug\Heap binomial.lastbuildstate".
+     1>Done Building Project "C:\Users\Oly\Desktop\SD\Heap binomial\Heap binomial\Heap binomial.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

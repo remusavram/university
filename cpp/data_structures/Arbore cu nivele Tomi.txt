@@ -1,0 +1,118 @@
+#include "stdafx.h"
+#include "stdio.h"
+#include "conio.h"
+#include "iostream"
+using namespace std;
+FILE *f=fopen("fis.in","rt");
+FILE *g=fopen("fis.out","wt");
+FILE *h=fopen("arbore.out","wt");
+struct arb{int val;
+	   arb* st;
+	   arb* dr;
+	   };
+
+void adauga(arb* &rad)
+{
+int x;
+fscanf (f,"%d", &x);
+
+//se creeaza un nou nod de tip rad
+if (x!=0)
+	{
+	rad = new arb;
+	rad->val=x;
+	adauga(rad->st);
+	adauga(rad->dr);
+	}
+    else
+       rad = NULL;
+}
+// traversare si afisare in preordine recursiv
+void preord (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		fprintf (g,"%d ",rad->val);
+		preord(rad->st);
+		preord(rad->dr);
+	}
+}
+void inord (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		inord(rad->st);
+		fprintf (g,"%d ",rad->val);
+		inord(rad->dr);
+	}
+}
+void postord (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		postord(rad->st);
+		postord(rad->dr);
+		fprintf (g,"%d ",rad->val);
+	}
+}
+void frunze (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		if(!rad->st && !rad->dr)
+				fprintf (h,"%d ", rad->val);
+		frunze(rad->st);
+		frunze(rad->dr);
+	}
+}
+int inaltime(arb* rad, int &m, int nivel)
+{
+	if(rad!=NULL)
+	{
+		m = max(m, nivel++);
+		inaltime(rad->st, m, nivel);
+		inaltime(rad->dr, m, nivel);
+	}
+	return m;
+}
+void nivele (arb* rad, int nivel1, int nivel2)
+{
+	if (rad!=NULL)
+	{
+		if(nivel2==nivel1)
+			fprintf(h,"%d ", rad->val);
+	nivel1++;
+	nivele(rad->st, nivel1, nivel2);
+	nivele(rad->dr, nivel1, nivel2);
+	}
+}
+void main()
+{
+	arb* rad;
+	adauga(rad);
+	  int x;
+	  int y;
+	  int nivel1;
+	  int nivel=0;
+	  int m=0;
+	  fclose(f);
+	fprintf (g,"parcurgerea in preordine: \n");
+	preord(rad);
+	fprintf (g,"\nparcurgerea in inordine: \n");
+	inord(rad);
+	fprintf (g,"\nparcurgerea in postordine: \n");
+	postord(rad);
+	fclose(g);
+	fprintf (h,"Frunzele arborelui sunt: ");
+	frunze(rad);
+	inaltime(rad,m,0);
+	fprintf (h,"\nInaltimea arborelui este: %d",m);
+	for(nivel1=0;nivel1<=m;nivel1++)
+	{	fprintf(h,"\nNivelul %d: ",nivel1);
+		nivele(rad, 0, nivel1);
+	}
+	fclose(h);
+	getch();
+}
+
+	  

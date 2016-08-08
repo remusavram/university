@@ -1,0 +1,104 @@
+#include "stdafx.h"
+#include "stdio.h"
+#include "conio.h"
+FILE *f=fopen("C:\\Documents and Settings\\id3\\My Documents\\Visual Studio 2008\\Projects\\Tomi\\Tomi\\fis.in","rt");
+FILE *g=fopen("C:\\Documents and Settings\\id3\\My Documents\\Visual Studio 2008\\Projects\\Tomi\\Tomi\\fis.out","wt");
+FILE *h=fopen ("frunze.out","wt");
+struct arb{int val;
+	   arb* st;
+	   arb* dr;
+	   };
+
+void adauga(arb* &rad)
+{
+//printf ("val=");
+int x;
+fscanf (f,"%d", &x);
+
+//se creeaza un nou nod de tip rad
+if (x!=0)
+	{
+	rad = new arb;
+	rad->val=x;
+	adauga(rad->st);
+	adauga(rad->dr);
+	}
+    else
+       rad = NULL;
+}
+// traversare si afisare in preordine recursiv
+void preord (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		//printf ("%d ", rad->val);
+		
+		fprintf (g,"%d ",rad->val);
+		preord(rad->st);
+		preord(rad->dr);
+	}
+}
+void inord (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		//printf ("%d ", rad->val);
+		
+		inord(rad->st);
+		fprintf (g,"%d ",rad->val);
+		inord(rad->dr);
+	}
+}
+void postord (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		//printf ("%d ", rad->val);
+		
+		postord(rad->st);
+		postord(rad->dr);
+		fprintf (g,"%d ",rad->val);
+	}
+}
+void frunze (arb* rad)
+{
+	if (rad!=NULL)
+	{
+		if(!rad->st && !rad->dr)
+		{
+		fprintf (h,"%d ", rad->val);
+		}
+		frunze(rad->st);
+		frunze(rad->dr);
+	}
+}
+void main()
+{
+	arb* rad;
+	adauga(rad);
+	  int x;
+	  int y;
+	  fclose(f);
+	fprintf (g,"parcurgerea in preordine: \n");
+	preord(rad);
+	fprintf (g,"\nparcurgerea in inordine: \n");
+	inord(rad);
+	fprintf (g,"\nparcurgerea in postordine: \n");
+	postord(rad);
+	fclose(g);
+	fprintf (h,"\n Frunzele arborelui sunt: ");
+	frunze(rad);
+	fclose(h);
+	getch();
+}
+
+	  fclose(f);
+	fprintf (g,"parcurgerea in preordine: \n");
+	preord(rad);
+	fprintf (g,"\nparcurgerea in inordine: \n");
+	inord(rad);
+	fprintf (g,"\nparcurgerea in postordine: \n");
+	postord(rad);
+	fclose(g);
+	getch();
+}
