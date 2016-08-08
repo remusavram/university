@@ -1,0 +1,22 @@
+﻿Build started 5/23/2011 7:00:00 PM.
+     1>Project "E:\Programare procedurala\sem2\POO\Programe carte\Tratarea exceptiilor\Tratarea exceptiilor\Tratarea exceptiilor.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Tratarea exceptiilor.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Tratarea exceptiilor.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Tratarea exceptiilor.cpp"
+         Tratarea exceptiilor.cpp
+     1>e:\programare procedurala\sem2\poo\programe carte\tratarea exceptiilor\tratarea exceptiilor\tratarea exceptiilor.cpp(1): warning C4627: '#include <conio.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>e:\programare procedurala\sem2\poo\programe carte\tratarea exceptiilor\tratarea exceptiilor\tratarea exceptiilor.cpp(3): warning C4627: '#include <stdlib.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>e:\programare procedurala\sem2\poo\programe carte\tratarea exceptiilor\tratarea exceptiilor\tratarea exceptiilor.cpp(4): warning C4627: '#include <process.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>e:\programare procedurala\sem2\poo\programe carte\tratarea exceptiilor\tratarea exceptiilor\tratarea exceptiilor.cpp(5): warning C4627: '#include <setjmp.h>': skipped when looking for precompiled header use
+                 Add directive to 'StdAfx.h' or rebuild precompiled header
+     1>e:\programare procedurala\sem2\poo\programe carte\tratarea exceptiilor\tratarea exceptiilor\tratarea exceptiilor.cpp(41): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+     1>Done Building Project "E:\Programare procedurala\sem2\POO\Programe carte\Tratarea exceptiilor\Tratarea exceptiilor\Tratarea exceptiilor.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.09

@@ -1,0 +1,22 @@
+﻿Build started 18.03.2012 10:38:14.
+     1>Project "F:\Facultate\Anul I\POO\Programe carte\Fisiere\Fisiere\Fisiere.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Fisiere.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Fisiere.unsuccessfulbuild".
+         Touching "Debug\Fisiere.lastbuildstate".
+     1>Done Building Project "F:\Facultate\Anul I\POO\Programe carte\Fisiere\Fisiere\Fisiere.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
