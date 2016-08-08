@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<usersDetails>
+  <user>
+    <username>pufy</username>
+    <imagename>pufy.jpg</imagename>
+    <statistics>
+      <all>0|0</all>
+      <rivers>0|0</rivers>
+      <mountains>0|0</mountains>
+      <cities>0|0</cities>
+      <cars>0|0</cars>
+      <movies>0|0</movies>
+    </statistics>
+    <savedgame>
+      <time>27</time>
+      <cuvantgasit>______ _____</cuvantgasit>
+      <cuvant>SINGUR ACASA</cuvant>
+      <greseli>2</greseli>
+      <literefolosite>M|L|</literefolosite>
+      <level>1</level>
+    </savedgame>
+  </user>
+  <user>
+    <username>ciungullete</username>
+    <imagename>ciungullete.jpg</imagename>
+    <statistics>
+      <all>0|0</all>
+      <rivers>0|0</rivers>
+      <mountains>0|0</mountains>
+      <cities>0|0</cities>
+      <cars>0|0</cars>
+      <movies>0|0</movies>
+    </statistics>
+  </user>
+  <user>
+    <username>v</username>
+    <imagename>v.jpg</imagename>
+    <statistics>
+      <all>0|0</all>
+      <rivers>0|0</rivers>
+      <mountains>0|0</mountains>
+      <cities>0|0</cities>
+      <cars>0|0</cars>
+      <movies>0|0</movies>
+    </statistics>
+  </user>
+</usersDetails>

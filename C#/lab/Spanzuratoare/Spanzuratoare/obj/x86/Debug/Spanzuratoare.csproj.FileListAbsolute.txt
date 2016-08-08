@@ -1,0 +1,20 @@
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.Properties.Resources.resources
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.exe
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.pdb
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.SignIn.resources
+D:\Proiecte Remus\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.NewUserForm.resources
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.exe
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.pdb
+F:\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.exe
+F:\Spanzuratoare\Spanzuratoare\bin\Debug\Spanzuratoare.pdb
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.SignIn.resources
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.NewUserForm.resources
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\Spanzuratoare.Properties.Resources.resources
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Spanzuratoare\Spanzuratoare\obj\x86\Debug\GenerateResource.write.1.tlog

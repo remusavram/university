@@ -1,0 +1,15 @@
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\bin\Debug\Laborator 1 project 2 - NotepadProject.exe
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\bin\Debug\Laborator 1 project 2 - NotepadProject.pdb
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\Laborator_1_project_2___NotepadProject.Form1.resources
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\Laborator_1_project_2___NotepadProject.Properties.Resources.resources
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\Laborator 1 project 2 - NotepadProject.exe
+D:\lucru\Remus\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\Laborator 1 project 2 - NotepadProject.pdb
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\Laborator 1 project 2 - NotepadProject.exe
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\Laborator_1_project_2___NotepadProject.Form1.resources
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\Laborator_1_project_2___NotepadProject.Properties.Resources.resources
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Laborator 1 project 2 - NotepadProject\Laborator 1 project 2 - NotepadProject\obj\x86\Debug\GenerateResource.write.1.tlog

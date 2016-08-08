@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<words>
+  <word category="Rivers"> 
+    <name>Tisa</name>
+  </word>
+  <word category="Rivers">
+    <name>Prahova</name>
+  </word>
+  <word category="Rivers">
+    <name>Marea Neagra</name>
+  </word>
+  <word category="Movies">
+    <name>Alba ca Zapada</name>
+  </word>
+  <word category="Movies">
+    <name>Pe aripile vantului</name>
+  </word>
+  <word category="Movies">
+    <name>Shrek</name>
+  </word>
+  <word category="Movies">
+    <name>Forest Gump</name>
+  </word>
+  <word category="Cars">
+    <name>Ford</name>
+  </word>
+  <word category="Cars">
+    <name>Peugeut </name>
+  </word>
+  <word category="Cars">
+    <name>Mercedes </name>
+  </word>
+  <word category="Cars">
+    <name>Renault</name>
+  </word>
+  <word category="Cars">
+    <name>Opel </name>
+  </word>
+  <word category="Mountains">
+    <name>Bucegi </name>
+  </word>
+  <word category="Mountains">
+    <name>Fagaras </name>
+  </word>
+  <word category="Mountains">
+    <name>Baiu </name>
+  </word>
+  <word category="Mountains">
+    <name>Tampa </name>
+  </word>
+  <word category="Mountains">
+    <name>Cristian </name>
+  </word>
+</words>

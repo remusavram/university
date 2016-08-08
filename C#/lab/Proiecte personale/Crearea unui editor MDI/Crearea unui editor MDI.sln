@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crearea unui editor MDI", "Crearea unui editor MDI\Crearea unui editor MDI.csproj", "{92135CB9-B690-423B-81CA-0EBB6A1BE4E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92135CB9-B690-423B-81CA-0EBB6A1BE4E9}.Debug|x86.ActiveCfg = Debug|x86
+		{92135CB9-B690-423B-81CA-0EBB6A1BE4E9}.Debug|x86.Build.0 = Debug|x86
+		{92135CB9-B690-423B-81CA-0EBB6A1BE4E9}.Release|x86.ActiveCfg = Release|x86
+		{92135CB9-B690-423B-81CA-0EBB6A1BE4E9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

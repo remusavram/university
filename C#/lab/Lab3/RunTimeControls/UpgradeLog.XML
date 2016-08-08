@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RunTimeControls">
+</Property><Property Name="Solution File" Value="P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls.sln">
+</Property><Property Name="User Options File" Value="P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls.suo">
+</Property><Property Name="Date" Value="Monday, March 12, 2012">
+</Property><Property Name="Time" Value="9:39 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RunTimeControls.sln" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls.sln">
+</Event><Event ErrorLevel="0" Project="" Source="RunTimeControls.suo" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls.suo">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\RunTimeControls.csproj" Description="Project file successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\RunTimeControls.csproj">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Form1.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Form1.cs">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Form1.Designer.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Program.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Program.cs">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Properties\AssemblyInfo.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Properties\Resources.Designer.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Properties\Settings.Designer.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Properties\Settings.settings" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\Properties\Resources.resx" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\Backup\RunTimeControls\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\RunTimeControls.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RunTimeControls" Source="RunTimeControls\RunTimeControls.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RunTimeControls.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="RunTimeControls.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RunTimeControls" Source="RunTimeControls\RunTimeControls.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

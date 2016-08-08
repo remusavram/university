@@ -1,0 +1,5 @@
+D:\lucru\Remus\Laborator 1\Laborator 1\bin\Debug\Laborator 1.exe
+D:\lucru\Remus\Laborator 1\Laborator 1\bin\Debug\Laborator 1.pdb
+D:\lucru\Remus\Laborator 1\Laborator 1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\lucru\Remus\Laborator 1\Laborator 1\obj\x86\Debug\Laborator 1.exe
+D:\lucru\Remus\Laborator 1\Laborator 1\obj\x86\Debug\Laborator 1.pdb

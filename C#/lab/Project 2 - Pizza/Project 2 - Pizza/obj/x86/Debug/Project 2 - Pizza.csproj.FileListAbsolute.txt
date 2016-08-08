@@ -1,0 +1,31 @@
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Project 2 - Pizza.exe.config
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Baza_de_date_Pizza.mdf
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Baza_de_date_Pizza_log.ldf
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Database1.mdf
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Database1_log.ldf
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Project 2 - Pizza.exe
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Project 2 - Pizza.pdb
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project_2___Pizza.Form1.resources
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project_2___Pizza.Properties.Resources.resources
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project 2 - Pizza.exe
+C:\Users\Remus\Documents\Visual Studio 2010\Projects\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project 2 - Pizza.pdb
+D:\Facultate\Anul II\Sem 2\C#\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Project 2 - Pizza.exe.config
+D:\Facultate\Anul II\Sem 2\C#\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project 2 - Pizza.exe
+D:\Facultate\Anul II\Sem 2\C#\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project 2 - Pizza.pdb
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Project 2 - Pizza.exe.config
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project 2 - Pizza.exe
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project 2 - Pizza.pdb
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Baza_de_date_Pizza.mdf
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Baza_de_date_Pizza_log.ldf
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Database1.mdf
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Database1_log.ldf
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Project 2 - Pizza.exe
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\bin\Debug\Project 2 - Pizza.pdb
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project_2___Pizza.Form1.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\Project_2___Pizza.Properties.Resources.resources
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Facultate\Anul II\Sem 2\C#\Laborator\Project 2 - Pizza\Project 2 - Pizza\obj\x86\Debug\GenerateResource.write.1.tlog

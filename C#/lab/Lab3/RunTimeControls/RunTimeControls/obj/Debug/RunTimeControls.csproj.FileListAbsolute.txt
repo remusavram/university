@@ -1,0 +1,19 @@
+D:\Facultate\2010-2011\MVP\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Facultate\2010-2011\MVP\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.Properties.Resources.resources
+D:\Facultate\2010-2011\MVP\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.csproj.GenerateResource.Cache
+D:\Facultate\2010-2011\MVP\Laborator2\RunTimeControls\RunTimeControls\bin\Debug\RunTimeControls.exe
+D:\Facultate\2010-2011\MVP\Laborator2\RunTimeControls\RunTimeControls\bin\Debug\RunTimeControls.pdb
+D:\Facultate\2010-2011\MVP\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.exe
+D:\Facultate\2010-2011\MVP\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.pdb
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.exe
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.pdb
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\bin\Debug\RunTimeControls.exe
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\bin\Debug\RunTimeControls.pdb
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\ResolveAssemblyReference.cache
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.Properties.Resources.resources
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+P:\CadreDidactice\Corina\MVP\2011\Laborator2\RunTimeControls\RunTimeControls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+P:\CadreDidactice\Corina\MVP\2012\Lab3\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.exe
+P:\CadreDidactice\Corina\MVP\2012\Lab3\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.pdb
+F:\Facultate\Anul II\Sem 2\C#\Lab3\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.exe
+F:\Facultate\Anul II\Sem 2\C#\Lab3\RunTimeControls\RunTimeControls\obj\Debug\RunTimeControls.pdb

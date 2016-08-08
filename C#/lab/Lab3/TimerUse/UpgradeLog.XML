@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TimerUse">
+</Property><Property Name="Solution File" Value="P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\TimerUse.sln">
+</Property><Property Name="User Options File" Value="P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\TimerUse.suo">
+</Property><Property Name="Date" Value="Monday, March 12, 2012">
+</Property><Property Name="Time" Value="13:25 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TimerUse.sln" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TimerUse.suo" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse.suo">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\TimerUse.csproj" Description="Project file successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\TimerUse.csproj">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Form1.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Form1.Designer.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Program.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Program.cs">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Properties\AssemblyInfo.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Properties\Resources.Designer.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Properties\Settings.Designer.cs" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Properties\Settings.settings" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Form1.resx" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\Properties\Resources.resx" Description="File successfully backed up as P:\CadreDidactice\Corina\MVP\2012\Lab3\TimerUse\Backup\TimerUse\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\TimerUse.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TimerUse" Source="TimerUse\TimerUse.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TimerUse.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TimerUse.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TimerUse" Source="TimerUse\TimerUse.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

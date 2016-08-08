@@ -1,0 +1,15 @@
+D:\Corina\Facultate\2011-2012\MVP\BD\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Corina\Facultate\2011-2012\MVP\BD\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Corina\Facultate\2011-2012\MVP\BD\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Corina\Facultate\2011-2012\MVP\BD\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Corina\Facultate\2011-2012\MVP\BD\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+J:\Facultate\Anul II\Sem 2\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+J:\Facultate\Anul II\Sem 2\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+J:\Facultate\Anul II\Sem 2\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\Facultate\Anul II\Sem 2\C#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\Facultate\Anul II\Sem 2\C#\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Facultate\Anul II\Sem 2\C#\Laborator\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Facultate\Anul II\Sem 2\C#\Laborator\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Facultate\Anul II\Sem 2\C#\Laborator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Facultate\Anul II\Sem 2\C#\Laborator\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Facultate\Anul II\Sem 2\C#\Laborator\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,21 @@
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\bin\Debug\Crearea unui editor MDI.exe
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\bin\Debug\Crearea unui editor MDI.pdb
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea_unui_editor_MDI.Form1.resources
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea_unui_editor_MDI.Properties.Resources.resources
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea unui editor MDI.exe
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea unui editor MDI.pdb
+D:\lucru\Remus\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea_unui_editor_MDI.Edit_Form.resources
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea unui editor MDI.exe
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea unui editor MDI.pdb
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\bin\Debug\Crearea unui editor MDI.exe
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\bin\Debug\Crearea unui editor MDI.pdb
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea_unui_editor_MDI.Edit_Form.resources
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea_unui_editor_MDI.Form1.resources
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea_unui_editor_MDI.Options.resources
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\Crearea_unui_editor_MDI.Properties.Resources.resources
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Facultate\Anul II\Sem 2\C#\Proiecte personale\Crearea unui editor MDI\Crearea unui editor MDI\obj\x86\Debug\GenerateResource.write.1.tlog

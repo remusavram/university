@@ -1,0 +1,22 @@
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.AddItemForm.resources
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.Form1.resources
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.Properties.Resources.resources
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\bin\Debug\SendingDatasBetweenForms.exe
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\bin\Debug\SendingDatasBetweenForms.pdb
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.exe
+D:\Corina\Facultate\2011-2012\MVP\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.pdb
+P:\CadreDidactice\Corina\MVP\2012\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.exe
+P:\CadreDidactice\Corina\MVP\2012\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.pdb
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.exe
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.pdb
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\bin\Debug\SendingDatasBetweenForms.exe
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\bin\Debug\SendingDatasBetweenForms.pdb
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.AddItemForm.resources
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.Form1.resources
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\SendingDatasBetweenForms.Properties.Resources.resources
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Facultate\Anul II\Sem 2\C#\Lab3\SendingDatasBetweenForms\SendingDatasBetweenForms\obj\x86\Debug\GenerateResource.write.1.tlog
