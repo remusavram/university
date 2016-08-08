@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Tema_cu_translatii">
+</Property><Property Name="Solution File" Value="J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii.sln">
+</Property><Property Name="User Options File" Value="J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii.suo">
+</Property><Property Name="Date" Value="Saturday, March 17, 2012">
+</Property><Property Name="Time" Value="16:21 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Tema_cu_translatii.sln" Description="File successfully backed up as J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Tema_cu_translatii.suo" Description="File successfully backed up as J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii.suo.old">
+</Event><Event ErrorLevel="0" Project="Tema_cu_translatii" Source="Tema_cu_translatii\Tema_cu_translatii.vcproj" Description="Converting project file 'J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii\Tema_cu_translatii.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Tema_cu_translatii" Source="Tema_cu_translatii\Tema_cu_translatii.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Tema_cu_translatii" Source="Tema_cu_translatii\Tema_cu_translatii.vcproj" Description="Done converting to new project file 'J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii\Tema_cu_translatii.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Tema_cu_translatii" Source="Tema_cu_translatii\Tema_cu_translatii.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Tema_cu_translatii.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Tema_cu_translatii.sln" Description="Converted">
+</Event></UpgradeLog>

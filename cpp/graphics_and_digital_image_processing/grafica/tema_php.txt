@@ -1,0 +1,5 @@
+Avem un drept de nr.Se pleaca din colt stg sus->colt dr jos.Sa se afle drumul de val minim a.i. suma sa fie min.
+
+Un sir de pitici(unul in spatele celuilalt).Pitici cu caciuli albe/rosii.Fiecare rosteste un nr insemnand nr de
+pitici aflati inaintea lui.Sa se stabileasca culoarea caciulilor pt ca piticii rosii mint.Sa se rearanjeze sirul
+(daca e posibil)a.i.toti piticii sa spuna adevarul

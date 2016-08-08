@@ -1,0 +1,41 @@
+﻿Build started 3/17/2012 4:21:46 PM.
+     1>Project "J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii\Tema_cu_translatii.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Tema_cu_translatii.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         Deleting file "Debug\Tema_cu_translatii.pch".
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Tema_cu_translatii.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Tema_cu_translatii.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Tema_cu_translatii.cpp Tema_cu_translatiiDlg.cpp
+         Tema_cu_translatiiDlg.cpp
+     1>j:\facultate\anul ii\sem 2\imagini vizuale\tema_cu_translatii\tema_cu_translatii\tema_cu_translatiidlg.cpp(271): warning C4101: 'ay' : unreferenced local variable
+         Tema_cu_translatii.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\Tema_cu_translatii.res" Tema_cu_translatii.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Tema_cu_translatii.exe.embed.manifest.res" Debug\Tema_cu_translatii_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Debug\Tema_cu_translatii.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Tema_cu_translatii.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Debug\Tema_cu_translatii.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Debug\Tema_cu_translatii.lib" /MACHINE:X86 Debug\Tema_cu_translatii.res
+         Debug\Tema_cu_translatii.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Tema_cu_translatii.obj
+         Debug\Tema_cu_translatiiDlg.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Tema_cu_translatii.exe.embed.manifest" /manifest Debug\Tema_cu_translatii.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Tema_cu_translatii.exe.embed.manifest.res" Debug\Tema_cu_translatii_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Debug\Tema_cu_translatii.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Tema_cu_translatii.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Debug\Tema_cu_translatii.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Debug\Tema_cu_translatii.lib" /MACHINE:X86 Debug\Tema_cu_translatii.res
+         Debug\Tema_cu_translatii.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Tema_cu_translatii.obj
+         Debug\Tema_cu_translatiiDlg.obj
+         Tema_cu_translatii.vcxproj -> J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Debug\Tema_cu_translatii.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Tema_cu_translatii.unsuccessfulbuild".
+         Touching "Debug\Tema_cu_translatii.lastbuildstate".
+     1>Done Building Project "J:\Facultate\Anul II\Sem 2\Imagini vizuale\Tema_cu_translatii\Tema_cu_translatii\Tema_cu_translatii.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.84
