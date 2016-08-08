@@ -1,0 +1,40 @@
+﻿Build started 9/10/2012 9:28:28 p.m..
+     1>Project "D:\Facultate\Anul I\POO\Poo - examen\Poo - examen\Poo - examen.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Poo - examen.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Poo - examen.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Poo - examen.cpp" stdafx.cpp
+         stdafx.cpp
+         Poo - examen.cpp
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(162): error C2079: 'g' uses undefined class 'std::basic_ofstream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(162): error C2440: 'initializing' : cannot convert from 'const char [12]' to 'int'
+                 There is no context in which this conversion is possible
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(163): error C2297: '<<' : illegal, right operand has type 'const char [30]'
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(163): warning C4552: '<<' : operator has no effect; expected operator with side-effect
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(164): error C2678: binary '<<' : no operator found which takes a left-hand operand of type 'int' (or there is no acceptable conversion)
+                 d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(30): could be 'std::ostream &operator <<(std::ostream &,Vector &)'
+                 while trying to match the argument list '(int, Vector)'
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(165): error C2297: '<<' : illegal, right operand has type 'const char [51]'
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(165): warning C4552: '<<' : operator has no effect; expected operator with side-effect
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(166): error C2678: binary '<<' : no operator found which takes a left-hand operand of type 'int' (or there is no acceptable conversion)
+                 d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(30): could be 'std::ostream &operator <<(std::ostream &,Vector &)'
+                 while trying to match the argument list '(int, Vector)'
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(167): error C2297: '<<' : illegal, right operand has type 'const char [38]'
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(167): error C2678: binary '<<' : no operator found which takes a left-hand operand of type 'int' (or there is no acceptable conversion)
+                 d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(30): could be 'std::ostream &operator <<(std::ostream &,Vector &)'
+                 while trying to match the argument list '(int, Vector)'
+     1>d:\facultate\anul i\poo\poo - examen\poo - examen\poo - examen.cpp(169): error C2228: left of '.close' must have class/struct/union
+                 type is 'int'
+         Generating Code...
+     1>Done Building Project "D:\Facultate\Anul I\POO\Poo - examen\Poo - examen\Poo - examen.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.89
