@@ -1,0 +1,40 @@
+﻿Build started 4/13/2011 3:30:23 PM.
+     1>Project "E:\Programare procedurala\sem1\Tema cap9\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug\main.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>e:\programare procedurala\sem1\tema cap9\main.c(28): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(32): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(250) : see declaration of 'strrev'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(41): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(54): error C2143: syntax error : missing ';' before 'type'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(55): error C2143: syntax error : missing ';' before 'type'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(57): error C2065: 'c' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(59): error C2065: 's' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(59): warning C4047: 'function' : 'char *' differs in levels of indirection from 'int'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(59): warning C4024: 'gets' : different types for formal and actual parameter 1
+     1>e:\programare procedurala\sem1\tema cap9\main.c(61): error C2065: 'i' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(61): error C2065: 'i' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(61): error C2065: 's' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(61): warning C4047: 'function' : 'const char *' differs in levels of indirection from 'int'
+     1>e:\programare procedurala\sem1\tema cap9\main.c(61): warning C4024: 'strlen' : different types for formal and actual parameter 1
+     1>e:\programare procedurala\sem1\tema cap9\main.c(61): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\programare procedurala\sem1\tema cap9\main.c(61): error C2065: 'i' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(62): error C2065: 's' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(62): error C2065: 'i' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(62): error C2109: subscript requires array or pointer type
+     1>e:\programare procedurala\sem1\tema cap9\main.c(62): error C2065: 'c' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(63): error C2065: 'k' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(63): error C2065: 'k' : undeclared identifier
+     1>e:\programare procedurala\sem1\tema cap9\main.c(65): error C2065: 'k' : undeclared identifier
+     1>Done Building Project "E:\Programare procedurala\sem1\Tema cap9\main.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.44

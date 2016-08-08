@@ -1,0 +1,106 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: main - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1EA.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/main.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\Programare procedurala\Tema cap10\main.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP1EA.tmp" 
+<h3>Output Window</h3>
+Compiling...
+main.c
+E:\Programare procedurala\Tema cap10\main.c(29) : error C2143: syntax error : missing ';' before 'type'
+E:\Programare procedurala\Tema cap10\main.c(37) : error C2065: 'x' : undeclared identifier
+E:\Programare procedurala\Tema cap10\main.c(37) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(37) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(37) : error C2198: 'gets' : too few actual parameters
+E:\Programare procedurala\Tema cap10\main.c(40) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(40) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(40) : error C2198: 'gets' : too few actual parameters
+E:\Programare procedurala\Tema cap10\main.c(45) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(45) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(46) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(46) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(47) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(47) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(48) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(48) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(49) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(49) : error C2224: left of '.valoare' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(49) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(49) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(49) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(49) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(60) : error C2224: left of '.valoare' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(65) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(65) : error C2224: left of '.valoare' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(73) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(73) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(73) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(73) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(73) : error C2198: 'strcmp' : too few actual parameters
+E:\Programare procedurala\Tema cap10\main.c(75) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(75) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(75) : error C2198: 'strcpy' : too few actual parameters
+E:\Programare procedurala\Tema cap10\main.c(76) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(76) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(76) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(76) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(76) : error C2198: 'strcpy' : too few actual parameters
+E:\Programare procedurala\Tema cap10\main.c(77) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(77) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(77) : error C2198: 'strcpy' : too few actual parameters
+E:\Programare procedurala\Tema cap10\main.c(79) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(79) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(80) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(80) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(80) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(80) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(81) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(81) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(83) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(83) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(84) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(84) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(84) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(84) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(85) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(85) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(87) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(87) : error C2224: left of '.valoare' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(88) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(88) : error C2224: left of '.valoare' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(88) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(88) : error C2224: left of '.valoare' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(89) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(89) : error C2224: left of '.valoare' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2224: left of '.denumire_produs' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2224: left of '.cantitate' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2224: left of '.pret' must have struct/union type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2109: subscript requires array or pointer type
+E:\Programare procedurala\Tema cap10\main.c(100) : error C2224: left of '.valoare' must have struct/union type
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+main.obj - 80 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
