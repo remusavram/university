@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Hybrid Cars</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="HybridElectricCars.html">Hybrid Electric Cars</a></li>
+				<li><a href="gallery.html">Hybrid Cars Gallery</a></li>
+				<li><a href="3Dview.html">GreenFoot</a></li>
+				<li><a href="AboutUs.html">About Us</a></li>
+				<li><a href="ContactUs.html">Contact Us</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1><a href="index.html">Hybrid Cars</a></h1>
+		<h2>All about hybrid cars</h2>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content and sidebar area -->
+			<section id="content"><!-- #content -->
+			
+        		<article>
+						<h3>How Hybrid Cars Work</h3>
+						<p>Hybrid Cars integrate the power of the conventional gasoline engine with that of an electric motor. A high powered battery pack provides energy to the motor which itself gets recharged when the car is decelerating. This is called as regenerative braking. The gas engine can also assist the battery in recharging. This kills the need to plug the car to an external source of energy.</p>
+						<p>As of now, there are two types of hybrid vehicles.</p>
+						<p>In one type, the electric motor acts as a side-kick to the gas engine, assisting it whenever surplus power is needed. The electric motor alone is incapable of independently operating the vehicle. Honda's Power Assist technology in its hybrids, Civic and Insight is an example. Such vehicles are termed as Mild Hybrids. In mild hybrids, the gasoline engine provides the main source of power, and the electric motor provides additional power whenever needed.</p>
+						<p>The second type of hybrid can be termed as a Full Hybrid, where the gasoline engine and the electric motor can operate the vehicle separately. In this type, the electric motor can drive the vehicle at lower speeds. In need of more speed, the gasoline engine kicks in. The Toyota Prius and the Ford Escape implement the same technology. </p>
+						<p>Be it mild hybrids or full hybrids, both are capable of providing lower emissions and better fuel efficiency.</p>
+						<p>The Internal-Combustion Engines (both gasoline and diesel) installed in Hybrid cars are often smaller than those in normal cars for a simple reason that Hybrids have the electric motor for assistance.</p>
+						<p>The motor can take care of city travel which poses stop and go conditions as well as power-consuming add-ons such as the A/C or power-windows and power-steering. At high speeds, the gasoline engine supplies power. This switching of power sources is computer controlled and nothing needs to be manually done. </p>
+						<p>Power to the electric motor comes from the battery-pack. Recharging of the battery is automatic and need not be done by external sources. When the car is in uniform motion or when it is decelerating, it generates power which charges the batteries which utilizes the valuable kinetic energy.</p>
+						<p>As with any other battery, the Hybrid car battery also has a limited life span. Auto makers however, put the battery life at around 200,000 miles which roughly comes around to 7-8 years, depending on the kind of travel it endures. Thus, It pays to take extra care of your vehicle and travel when necessary. </p>
+						
+						
+				</article>
+						
+						
+			</section><!-- end of #content -->
+
+		<aside id="sidebar"><!-- sidebar -->
+				<h3>Hybrid Car Links</h3>
+					<ul>
+						<li><a href="WhatAreHyb.html">What are Hybrid Cars</a></li>
+						<li><a href="ProCon.html">Hybrid Car Pros & Cons</a></li>
+						<li><a href="HowWork.html">How Hybrid Cars Work</a></li>
+						<li><a href="HistoryHybrid.html">History of Hybrid Vehicles</a></li>
+						<li><a href="FutureHybrid.html">Future Hybrid Cars</a></li>
+						<li><a href="AdvantageHybrid.html">Advantages of Hybrid Cars</a></li>
+						<li><a href="DisadvantagesHybrid.html">Disadvantages Of Hybrid Cars</a></li>
+					</ul>
+					
+					<h3>Top 5 Hybrid Cars</h3>
+				
+				<script type="text/javascript">
+				if (window.XMLHttpRequest)
+				{
+					xmlhttp=new XMLHttpRequest();
+				}
+				else
+				{
+					xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.open("GET","xml/top5.xml",false);
+				xmlhttp.send();
+				xmlDoc=xmlhttp.responseXML; 
+
+				document.write("<ol>");
+				var x = xmlDoc.getElementsByTagName("piece");
+				for(i=0;i<=x.length-1;i++){
+					document.write("<li>");
+					document.write(x[i].getElementsByTagName("car")[0].childNodes[0].nodeValue);
+					document.write("</li>");
+	
+				}
+				document.write("</ol>");
+
+				</script>
+<h3><a href="calendarP.php">Calendar</a></h3>
+					
+		</aside><!-- end of sidebar -->
+
+	</section><!-- end of #main content and sidebar-->
+	
+		<footer>
+		<section id="footer-area">
+
+			<section id="footer-outer-block">
+					
+					<aside class="footer-segment">
+							<h4>All rights reserved</h4>
+								<p><a href="index.html">HybridCarSite.com</a>&copy; 2012 </p>
+					</aside>
+
+			</section><!-- end of footer-outer-block -->
+
+		</section><!-- end of footer-area -->
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>

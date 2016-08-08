@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Hybrid Cars</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+
+</head >
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="HybridElectricCars.html">Hybrid Electric Cars</a></li>
+				<li><a href="gallery.html">Hybrid Cars Gallery</a></li>
+				<li><a href="3Dview.html">GreenFoot</a></li>
+				<li><a href="AboutUs.html">About Us</a></li>
+				<li><a href="ContactUs.html">Contact Us</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1><a href="index.html">Hybrid Cars</a></h1>
+		<h2>All about hybrid cars</h2>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content and sidebar area -->
+			<section id="content"><!-- #content -->
+			
+        		<article>
+						<h2>What are Hybrid Cars?</h2>
+						<img src="images/hybrid-car-hyper.jpg" alt="" class="alignleft" /><p>Hybrid cars are the cars, which run on at-least one alternate source of energy and gasoline. Most of the time that other alternate source of energy for hybrid cars is electricity (rechargable batteries) hence those are called electric hybrid cars. These new hybrid cars are innovative, efficient and affordable. </p>
+
+				</article>
+						
+        		<article>
+						<h2>Why Hybrid Cars</h2>
+						<p>Here are the reasons why you should choose a hybrid car instead of conventional gasoline car:</p>
+						<ol>
+							<li>  A Hybrid car is environment friendly. It can reduce pollution by 90 percent.</li>
+							<li>  Hybrid cars are economical in medium and long run than normal gasoline cars.</li>
+							<li>  Hybrid cars are more reliable than electric cars, as they have gasoline as an alternate fuel.</li>
+							<li>  Hybrid cars makes you less dependent on fossil fuels (gasoline).</li>
+							<li>  Hybrid cars are more efficient, as they have smaller engines.</li>
+							<li>  Hybrid cars help in "Greenhouse Effect", as they lower the fuel emission.</li>
+							<li>  Hybrid cars improve mileage to a great extent. </li>
+						</ol>
+				</article>
+						
+			</section><!-- end of #content -->
+
+		<aside id="sidebar"><!-- sidebar -->
+				<h3>Hybrid Car Links</h3>
+					<ul>
+						<li><a href="WhatAreHyb.html">What are Hybrid Cars</a></li>
+						<li><a href="ProCon.html">Hybrid Car Pros & Cons</a></li>
+						<li><a href="HowWork.html">How Hybrid Cars Work</a></li>
+						<li><a href="HistoryHybrid.html">History of Hybrid Vehicles</a></li>
+						<li><a href="FutureHybrid.html">Future Hybrid Cars</a></li>
+						<li><a href="AdvantageHybrid.html">Advantages of Hybrid Cars</a></li>
+						<li><a href="DisadvantagesHybrid.html">Disadvantages Of Hybrid Cars</a></li>
+					</ul>
+				<h3>Top 5 Hybrid Cars</h3>
+				
+				<script type="text/javascript">
+				if (window.XMLHttpRequest)
+				{
+					xmlhttp=new XMLHttpRequest();
+				}
+				else
+				{
+					xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.open("GET","xml/top5.xml",false);
+				xmlhttp.send();
+				xmlDoc=xmlhttp.responseXML; 
+
+				document.write("<ol>");
+				var x = xmlDoc.getElementsByTagName("piece");
+				for(i=0;i<=x.length-1;i++){
+					document.write("<li>");
+					document.write(x[i].getElementsByTagName("car")[0].childNodes[0].nodeValue);
+					document.write("</li>");
+	
+				}
+				document.write("</ol>");
+
+				</script>
+			
+		<h3><a href="calendarP.php">Calendar</a></h3>
+		
+					
+		</aside><!-- end of sidebar -->
+
+	</section><!-- end of #main content and sidebar-->
+	
+		<footer>
+		<section id="footer-area">
+
+			<section id="footer-outer-block">
+					
+					<aside class="footer-segment">
+							<h4>All rights reserved</h4>
+								<p><a href="index.html">HybridCarSite.com</a>&copy; 2012 </p>
+					</aside>
+			</section><!-- end of footer-outer-block -->
+
+		</section><!-- end of footer-area -->
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>

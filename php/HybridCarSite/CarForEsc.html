@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Hybrid Cars</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="HybridElectricCars.html">Hybrid Electric Cars</a></li>
+				<li><a href="gallery.html">Hybrid Cars Gallery</a></li>
+				<li><a href="3Dview.html">GreenFoot</a></li>
+				<li><a href="AboutUs.html">About Us</a></li>
+				<li><a href="ContactUs.html">Contact Us</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1><a href="index.html">Hybrid Cars</a></h1>
+		<h2>All about hybrid cars</h2>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content and sidebar area -->
+			<section id="content"><!-- #content -->
+			
+        		<article>
+						<h2>Ford Escape Hybrid</h2>
+						<img src="images/ford-escape-hybrid.jpg" alt="" class="aligncenter" />
+						<p>Escape Hybrid by Ford is the first vehicle to join forces with two efficient technologies. It was the first time when the capability of an SUV with the outstanding fuel economy and low environmental impact of a full hybrid was formed by Ford. This new technology named Escape Hybrid uses absolutely no fuel when you’re stopped in traffic to start up. Or for that matter even if you are driving up to 44 mph in full electric mode. Delivering an impressive 34 mpg in stop-and-go traffic, this is a really practical hybrid car. When the engine kicks in, the car with its dual power manages to provide active acceleration. Moreover, its features comprise comfortable seating for five, a good to use cargo area, and various standard and optional accessories and facilities. You can also opt for a technology such as an Intelligent 4WD System that provides the driver with enhanced traction and it does not matter if the road is covered with gravel or ice or even if the road is all wet by rain. The Ford Escape Hybrid has a mileage of an estimated 34 in city and 31 mpg on highways, if you opt for a four wheel drive. </p>
+						<h4>Technology in the Ford Escape Hybrid</h4>
+						<p>The Ford Escape Hybrid is absolutely innovative and unique with the modern technology that has been incorporated. The car engine consists of a nickel-metal-hydride (Ni-MH) battery that is completely sealed and securely encased. The car battery is stored precisely under the extensive rear cargo area at the backside on the load floor. Moreover, the Regenerative Braking System that the car boasts of makes sure that the Ni-Mh battery gets recharged each and every time the driver applies the brakes. This is a unique Hybrid component and it is covered under either an 8-year or 100,000-mile limited warranty. These norms come under non-California emissions states. In certain other green-conscious states the Hybrid battery warranty is 10-year or 150,000-mile, limited. </p>
+
+				</article>
+						
+						
+			</section><!-- end of #content -->
+
+<aside id="sidebar"><!-- sidebar -->
+				<h3>Hybrid Car Links</h3>
+					<ul>
+						<li><a href="WhatAreHyb.html">What are Hybrid Cars</a></li>
+						<li><a href="ProCon.html">Hybrid Car Pros & Cons</a></li>
+						<li><a href="HowWork.html">How Hybrid Cars Work</a></li>
+						<li><a href="HistoryHybrid.html">History of Hybrid Vehicles</a></li>
+						<li><a href="FutureHybrid.html">Future Hybrid Cars</a></li>
+						<li><a href="AdvantageHybrid.html">Advantages of Hybrid Cars</a></li>
+						<li><a href="DisadvantagesHybrid.html">Disadvantages Of Hybrid Cars</a></li>
+					</ul>
+					
+					<h3>Top 5 Hybrid Cars</h3>
+				
+				<script type="text/javascript">
+				if (window.XMLHttpRequest)
+				{
+					xmlhttp=new XMLHttpRequest();
+				}
+				else
+				{
+					xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.open("GET","xml/top5.xml",false);
+				xmlhttp.send();
+				xmlDoc=xmlhttp.responseXML; 
+
+				document.write("<ol>");
+				var x = xmlDoc.getElementsByTagName("piece");
+				for(i=0;i<=x.length-1;i++){
+					document.write("<li>");
+					document.write(x[i].getElementsByTagName("car")[0].childNodes[0].nodeValue);
+					document.write("</li>");
+	
+				}
+				document.write("</ol>");
+
+				</script>
+<h3><a href="calendarP.php">Calendar</a></h3>
+		</aside><!-- end of sidebar -->
+
+	</section><!-- end of #main content and sidebar-->
+	
+		<footer>
+		<section id="footer-area">
+
+			<section id="footer-outer-block">
+					
+					<aside class="footer-segment">
+							<h4>All rights reserved</h4>
+								<p><a href="index.html">HybridCarSite.com</a>&copy; 2012 </p>
+					</aside>
+
+			</section><!-- end of footer-outer-block -->
+
+		</section><!-- end of footer-area -->
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>

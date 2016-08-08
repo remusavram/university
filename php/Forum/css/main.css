@@ -1,0 +1,151 @@
+*{
+	margin:0px;
+	padding:0px;
+	list-style-type:none;
+}
+body{
+	text-align:center;
+	font-family:Arial;
+	font-size:12px;
+	color:#303030;
+}
+
+h2{ 
+	margin:5px;
+	font-size:45px;
+	color:white;
+	text-shadow:0px 0px 10px #080808;
+}
+h3{ 
+	margin:5px;
+	font-size:25px;
+	color:white;
+}
+
+textarea{
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:5px;
+	color:#505050;
+	overflow:auto;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	box-shadow:5px 5px 15px #A0A0A0; 
+	-moz-box-shadow:5px 5px 15px #A0A0A0;
+	-webkit-box-shadow:5px 5px 15px #A0A0A0;
+}
+a:link{
+	color:#006699;
+	text-decoration:none;
+}
+a:visited{
+	color:#006699;
+	text-decoration:none;
+}
+a:hover{
+	color:#CC6600;
+	text-decoration:none;
+}
+a:active{
+	color:#CC6600;
+	text-decoration:none;
+}
+label{
+	display:block;
+	float:left;
+	font-weight:bold;
+	margin-right:10px;
+	text-align:right;
+	width:180px;
+	line-height:25px;
+	font-size:15px;
+	color:white;
+}
+#page{
+	width:1000px;
+	margin:15px auto 0px;
+	text-align:left;
+}
+#formular{
+    width:500px;
+	padding:25px;
+	background:#0A2A12;
+	overflow:auto;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	box-shadow:5px 5px 15px #A0A0A0; 
+	-moz-box-shadow:5px 5px 15px #A0A0A0;
+	-webkit-box-shadow:5px 5px 15px #A0A0A0;
+}
+.formular2{
+    width:900px;
+    padding:25px;
+	background:#006699;
+	overflow:auto;
+	border-radius:7px;
+	-moz-border-radius:7px;
+	-webkit-border-radius:7px;
+	box-shadow:5px 5px 15px #A0A0A0; 
+	-moz-box-shadow:5px 5px 15px #A0A0A0;
+	-webkit-box-shadow:5px 5px 15px #A0A0A0;
+}
+.error{
+	color:red;
+	padding:10px;
+	margin:15px auto;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:17px;
+}
+.field{
+	margin-bottom:10px;
+}
+.input{
+    width:230px;
+	font-size:15px;
+	padding:5px;
+	border:1px solid #b9bdc1;
+	color:#505050;
+}
+
+#adaugastire{
+	margin:80px auto;
+	width:1000px;
+}
+#inregistare{
+	margin:80px auto;
+	width:600px;
+}
+#login{
+	margin:100px auto;
+	width:600px;
+}
+#header{
+	float:right;
+}
+#dreaptasus{
+	text-align:right;
+}
+#footer{
+	clear:both;
+	font-size:10px;
+	text-align:center;
+}
+.button {
+    margin:5px;
+	background-color:#298A08;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;
+	border:1px solid #298A08;
+	float:right;
+	color:#ffffff;
+	font-family:arial;
+	font-size:14px;
+	font-weight:bold;
+	padding:2px 10px;
+	text-shadow: 1px 1px 5px #303030;
+}

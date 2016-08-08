@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Hybrid Cars</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="HybridElectricCars.html">Hybrid Electric Cars</a></li>
+				<li><a href="gallery.html">Hybrid Cars Gallery</a></li>
+				<li><a href="3Dview.html">GreenFoot</a></li>
+				<li><a href="AboutUs.html">About Us</a></li>
+				<li><a href="ContactUs.html">Contact Us</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1><a href="index.html">Hybrid Cars</a></h1>
+		<h2>All about hybrid cars</h2>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content and sidebar area -->
+			<section id="content"><!-- #content -->
+			
+        		<article>
+						<h3>History of Hybrid Vehicles</h3>
+						<p>The history of hybrid cars dates back to the late 1800s and 1900s.</p>
+						<p>In 1905, Mr. H Piper filed a patent for a gasoline engine-electric motor powertrain. According to him, the electric motor would augment a gasoline engine, allowing a vehicle to accelerate from zero to 25 miles an hour in 10 seconds, much faster than the gasoline engines of that time. Ironically, when finally Mr.H Piper was granted the patent a few years later, normal engines were capable of producing the same kind of acceleration.</p>
+						<p>Due to rapid advancements in the gasoline engine, the popularity of a hybrid car slowly diminished until again in the early to mid 1970s, the time of oil crisis. Many companies poured funds to build experimental Hybrid Electric Vehicles. But as the oil became available again, the surge for HEVs died down immediately. </p>
+						<p>The Europeans and Japanese researching on reducing production costs and making HEVs more salable. Companies like Toyota, Honda, Volkswagen, Mitsubishi came up with ways to reduce emissions and better the mileage</p>
+						<p>Toyota introduced the Prius in 1997 (in Japan and in 2000 in the US) which proved to be a huge success. Recent sales figures indicate that well over 300,000 units of Toyota Prius have been sold the world over justifying the concept of a clean family car. </p>
+						<p>In 1999, Honda introduced its first production hybrid car, the Insight and then the Civic Hybrid in 2002</p>
+						<p>Ford came up with the first hybrid SUV, the Escape, which hit the road in 2004. Quick on their path are several other contestants such as Dodge with their hybrid pickup, the Ram, and chevrolet's Silverado. </p>
+						
+				</article>
+						
+						
+			</section><!-- end of #content -->
+
+		<aside id="sidebar"><!-- sidebar -->
+				<h3>Hybrid Car Links</h3>
+					<ul>
+						<li><a href="WhatAreHyb.html">What are Hybrid Cars</a></li>
+						<li><a href="ProCon.html">Hybrid Car Pros & Cons</a></li>
+						<li><a href="HowWork.html">How Hybrid Cars Work</a></li>
+						<li><a href="HistoryHybrid.html">History of Hybrid Vehicles</a></li>
+						<li><a href="FutureHybrid.html">Future Hybrid Cars</a></li>
+						<li><a href="AdvantageHybrid.html">Advantages of Hybrid Cars</a></li>
+						<li><a href="DisadvantagesHybrid.html">Disadvantages Of Hybrid Cars</a></li>
+					</ul>
+					
+					<h3>Top 5 Hybrid Cars</h3>
+				
+				<script type="text/javascript">
+				if (window.XMLHttpRequest)
+				{
+					xmlhttp=new XMLHttpRequest();
+				}
+				else
+				{
+					xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.open("GET","xml/top5.xml",false);
+				xmlhttp.send();
+				xmlDoc=xmlhttp.responseXML; 
+
+				document.write("<ol>");
+				var x = xmlDoc.getElementsByTagName("piece");
+				for(i=0;i<=x.length-1;i++){
+					document.write("<li>");
+					document.write(x[i].getElementsByTagName("car")[0].childNodes[0].nodeValue);
+					document.write("</li>");
+	
+				}
+				document.write("</ol>");
+
+				</script>
+<h3><a href="calendarP.php">Calendar</a></h3>
+		</aside><!-- end of sidebar -->
+
+	</section><!-- end of #main content and sidebar-->
+	
+		<footer>
+		<section id="footer-area">
+
+			<section id="footer-outer-block">
+					
+					<aside class="footer-segment">
+							<h4>All rights reserved</h4>
+								<p><a href="index.html">HybridCarSite.com</a>&copy; 2012 </p>
+					</aside>
+
+			</section><!-- end of footer-outer-block -->
+
+		</section><!-- end of footer-area -->
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>

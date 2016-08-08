@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Hybrid Cars</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="HybridElectricCars.html">Hybrid Electric Cars</a></li>
+				<li><a href="gallery.html">Hybrid Cars Gallery</a></li>
+				<li><a href="3Dview.html">GreenFoot</a></li>
+				<li><a href="AboutUs.html">About Us</a></li>
+				<li><a href="ContactUs.html">Contact Us</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1><a href="index.html">Hybrid Cars</a></h1>
+		<h2>All about hybrid cars</h2>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content and sidebar area -->
+			<section id="content"><!-- #content -->
+			
+        		<article>
+						<h2>Lexus RX 400h Hybrid</h2>
+						<img src="images/lexus-rx-400h-hybrid.jpg" alt="" class="aligncenter" />
+						<p>Quoted the world's first luxary hybrid SUV, the RX 400h is a masterpiece of engineering. </p>
+						<p>The Lexus RX 400 H is the latest to join the wagon of Hybrid cars. Lexus, a Toyota Corporation enterprise, had launched its SUV the Lexus RX 400 which gained instant popularity and now it has launched its hybrid version in the market. The car is really a lethal combination of both the technologies.</p>
+						<p>The car has an enhanced technology and one which makes the car very caring regarding the environment. The car gives splendid results with respect to emission norms. Also the car does plenty of eco friendly stuff to minimize the carbon emissions. </p>
+						<p>Lexus RX 400 H has many features. The car shows good technological advancement and the battery of this car too has been given the necessary power. The car also uses standard technologies like the Regenerated braking system which adds to the energy quotient in the battery whenever you apply the brakes. The car has a strong gasoline engine and also a strong battery which gives the car awesome usability and productivity. Also Lexus and Toyota are names that are enough to really make the car reliable. </p>
+				</article>
+						
+						
+			</section><!-- end of #content -->
+
+<aside id="sidebar"><!-- sidebar -->
+				<h3>Hybrid Car Links</h3>
+					<ul>
+						<li><a href="WhatAreHyb.html">What are Hybrid Cars</a></li>
+						<li><a href="ProCon.html">Hybrid Car Pros & Cons</a></li>
+						<li><a href="HowWork.html">How Hybrid Cars Work</a></li>
+						<li><a href="HistoryHybrid.html">History of Hybrid Vehicles</a></li>
+						<li><a href="FutureHybrid.html">Future Hybrid Cars</a></li>
+						<li><a href="AdvantageHybrid.html">Advantages of Hybrid Cars</a></li>
+						<li><a href="DisadvantagesHybrid.html">Disadvantages Of Hybrid Cars</a></li>
+					</ul>
+					
+					<h3>Top 5 Hybrid Cars</h3>
+				
+				<script type="text/javascript">
+				if (window.XMLHttpRequest)
+				{
+					xmlhttp=new XMLHttpRequest();
+				}
+				else
+				{
+					xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.open("GET","xml/top5.xml",false);
+				xmlhttp.send();
+				xmlDoc=xmlhttp.responseXML; 
+
+				document.write("<ol>");
+				var x = xmlDoc.getElementsByTagName("piece");
+				for(i=0;i<=x.length-1;i++){
+					document.write("<li>");
+					document.write(x[i].getElementsByTagName("car")[0].childNodes[0].nodeValue);
+					document.write("</li>");
+	
+				}
+				document.write("</ol>");
+
+				</script>
+<h3><a href="calendarP.php">Calendar</a></h3>
+		</aside><!-- end of sidebar -->
+
+	</section><!-- end of #main content and sidebar-->
+	
+		<footer>
+		<section id="footer-area">
+
+			<section id="footer-outer-block">
+					
+					<aside class="footer-segment">
+							<h4>All rights reserved</h4>
+								<p><a href="index.html">HybridCarSite.com</a>&copy; 2012 </p>
+					</aside>
+
+			</section><!-- end of footer-outer-block -->
+
+		</section><!-- end of footer-area -->
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<topCars>
+
+	<piece>
+		<car>Toyota Prius</car>
+	</piece>
+	<piece>
+		<car>Kia Optima Hybrid</car>
+	</piece>
+	<piece>
+		<car>Hyundai Sonata Hybrid</car>
+	</piece>
+	<piece>
+		<car>Lincoln MKZ Hybrid</car>
+	</piece>
+	<piece>
+		<car>Honda Civic Hybrid </car>
+	</piece>
+</topCars>
+

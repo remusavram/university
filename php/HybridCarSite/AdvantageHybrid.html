@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Hybrid Cars</title>
+	<link rel="stylesheet" href="styles.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="print.css" media="print" />
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+<div id="wrapper"><!-- #wrapper -->
+
+	<nav><!-- top nav -->
+		<div class="menu">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="HybridElectricCars.html">Hybrid Electric Cars</a></li>
+				<li><a href="gallery.html">Hybrid Cars Gallery</a></li>
+				<li><a href="3Dview.html">GreenFoot</a></li>
+				<li><a href="AboutUs.html">About Us</a></li>
+				<li><a href="ContactUs.html">Contact Us</a></li>
+			</ul>
+		</div>
+	</nav><!-- end of top nav -->
+	
+	<header><!-- header -->
+		<h1><a href="index.html">Hybrid Cars</a></h1>
+		<h2>All about hybrid cars</h2>
+	</header><!-- end of header -->
+	
+	<section id="main"><!-- #main content and sidebar area -->
+			<section id="content"><!-- #content -->
+			
+        		<article>
+						<h3>Advantages of Hybrid Cars</h3>
+						<p>Hybrid cars carry with them a bundle of advantages. </p>
+						<ul>
+							<li>Hybrids combine clean energy of the electrical motor with the power of the gas-powered engine which results into lower emissions and better mileage. </li>
+							<li>Thanks to the ever improving technology, hybrids perform at par with the normal ga-powered vehicles, if not better. </li>
+							<li>Hybrids are reliable and comfortable as any traditional car and they have a tax benefits(only till 2006). </li>
+							<li>There are purchase incentives for Hybrid vehicle owners (varies by state). </li>
+							<li>Hybrids are much cleaner cars than normal vehicles with lesser CO and other greenhouse gas emissions</li>
+							<li>Hybrids provide a better mileage.</li>
+							<li>The future for hybrids looks bright with rapid developments in hybrid technology to improve engine efficiency.</li>
+							<li>Due to the Regenerative Braking technology, the batteries need not be charged by an external source.</li>
+							<li>Special warranties are provided for the battery pack, the electric motor other costly items.</li>
+							<li>Hybrids help reduce the dependency on fossil fuels which directly affects fuel prices.</li>
+						</ul>
+						<p>Hybrid cars are often refered to as the 'car of the era'. The unique advantages of the hybrid car will be sole basis for such recognition in the market. The motor industry was always in the effort to develop most beneficial model and the disadvantages of the conventional model might be the triggering factor for the formation of advantageous models. Usually, anything to be considered as advantageous will make benefit only to its owner, and to the maximum, the family of the owner. The specialty of the hybrid car enhances in this situation since its advantages can attribute benefit to not only the owner or his family, but to the entire society, nation and the mankind.</p>
+						<p>The advantages of the hybrid car start right from its difference in the basic pattern. Hybrid car is type of car that utilizes two energy sources for its movement. The popular hybrid cars in the market are manufactured in such a manner to combine the benefits of an internal combustion engine and electrical motor. The shortening level of gasoline in the world as it is a non-renewable energy was the major drawback of the conventional cars, which was rectified in the electrical cars, but it also had its own disadvantages. The advantage of the hybrid car is that it can rectify the complaints in the both systems and balances the use of electrical energy and gasoline engine, in their optimum levels.</p>
+						<p>In the hybrid car, the electrical energy is used while starting up of the car and its low speed ranges, which will help to impart a check to the tail pipe emissions. As the automobiles is increasing, world is at the threat of toxic pollutants and global warming, due to their exhaust ingredients. The decrease in the tail pipe emission will be a great advantage for the environment as well as the society. However, gasoline engine will take up the transmission, when the speed goes up since, it is essential to attribute the pace for the drive. While the traffic stops and steep slopes the electrical energy will be again activated, which will help to reduce the gasoline utilization. The aerodynamic design, lighter materials and smoother tyre will help for better energy consumption. The striking technological advantage of the hybrid car is that the energy loss, while braking is re-channeled for the electrical battery charging, called as regenerative braking, and a separate energy for battery charging is not required. </p>
+						<p>The advantages of the hybrid car are multifaceted since it attributes economical, technical and economical benefits. Despite of the owner, the country as well as, is benefited from the gasoline saving as the oil prices are steeping very high, and its effects the country's whole economy. This advantage is also a benefit to the customer as government has decided to give reductions and tax credits for the hybrid car buying. In addition to Federal exemption certain states also provide local exemptions to promote the use of hybrid car.</p>
+						<p>Hybrid car is thus an advantageous car, which helps to over come much of the crisis related to the motor world.</p>
+					
+				</article>
+						
+						
+			</section><!-- end of #content -->
+
+		<aside id="sidebar"><!-- sidebar -->
+				<h3>Hybrid Car Links</h3>
+					<ul>
+						<li><a href="WhatAreHyb.html">What are Hybrid Cars</a></li>
+						<li><a href="ProCon.html">Hybrid Car Pros & Cons</a></li>
+						<li><a href="HowWork.html">How Hybrid Cars Work</a></li>
+						<li><a href="HistoryHybrid.html">History of Hybrid Vehicles</a></li>
+						<li><a href="FutureHybrid.html">Future Hybrid Cars</a></li>
+						<li><a href="AdvantageHybrid.html">Advantages of Hybrid Cars</a></li>
+						<li><a href="DisadvantagesHybrid.html">Disadvantages Of Hybrid Cars</a></li>
+					</ul>
+					
+					<h3>Top 5 Hybrid Cars</h3>
+				
+				<script type="text/javascript">
+				if (window.XMLHttpRequest)
+				{
+					xmlhttp=new XMLHttpRequest();
+				}
+				else
+				{
+					xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+				}
+				xmlhttp.open("GET","xml/top5.xml",false);
+				xmlhttp.send();
+				xmlDoc=xmlhttp.responseXML; 
+
+				document.write("<ol>");
+				var x = xmlDoc.getElementsByTagName("piece");
+				for(i=0;i<=x.length-1;i++){
+					document.write("<li>");
+					document.write(x[i].getElementsByTagName("car")[0].childNodes[0].nodeValue);
+					document.write("</li>");
+	
+				}
+				document.write("</ol>");
+
+				</script>
+
+				<h3><a href="calendarP.php">Calendar</a></h3>	
+		</aside><!-- end of sidebar -->
+
+	</section><!-- end of #main content and sidebar-->
+	
+		<footer>
+		<section id="footer-area">
+
+			<section id="footer-outer-block">
+					
+					<aside class="footer-segment">
+							<h4>All rights reserved</h4>
+								<p><a href="index.html">HybridCarSite.com</a>&copy; 2012 </p>
+					</aside>
+
+			</section><!-- end of footer-outer-block -->
+
+		</section><!-- end of footer-area -->
+	</footer>
+	
+</div><!-- #wrapper -->
+
+</body>
+</html>
