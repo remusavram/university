@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tema M1U2 problema1", "Tema M1U2 problema1\Tema M1U2 problema1.vcxproj", "{922F7236-2CC3-4199-B8E3-E49574F68631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922F7236-2CC3-4199-B8E3-E49574F68631}.Debug|Win32.ActiveCfg = Debug|Win32
+		{922F7236-2CC3-4199-B8E3-E49574F68631}.Debug|Win32.Build.0 = Debug|Win32
+		{922F7236-2CC3-4199-B8E3-E49574F68631}.Release|Win32.ActiveCfg = Release|Win32
+		{922F7236-2CC3-4199-B8E3-E49574F68631}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
